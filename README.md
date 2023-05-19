@@ -1,5 +1,9 @@
 # QDB Blogs
 
+## Steps To Install
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
