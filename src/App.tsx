@@ -94,7 +94,7 @@ const App = () => {
               {
                 key: "1",
                 icon: <DashboardOutlined />,
-                label: "Test",
+                label: "Dashboard",
                 onClick: () => {
                   navigate("/dashboard");
                 }
