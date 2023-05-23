@@ -23,7 +23,6 @@ const {Content, Sider, Header} = Layout;
 const {innerWidth: width, innerHeight: height} = window;
 
 
-//Edit Test 
 
 const App = () => {
   const [collapsed, setCollapsed] = useState(true);
@@ -95,7 +94,7 @@ const App = () => {
               {
                 key: "1",
                 icon: <DashboardOutlined />,
-                label: "Dashboard",
+                label: "Test",
                 onClick: () => {
                   navigate("/dashboard");
                 }
